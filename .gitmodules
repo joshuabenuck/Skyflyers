@@ -1,0 +1,3 @@
+[submodule "USBSimulator"]
+	path = USBSimulator
+	url = https://github.com/joshuabenuck/USBSimulator
